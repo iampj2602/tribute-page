@@ -1,3 +1,3 @@
 # tribute-page
 this my first project on GitHub
-author - piyush jha
+author - piyush jha(tributepage)
